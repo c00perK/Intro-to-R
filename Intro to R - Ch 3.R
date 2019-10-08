@@ -5,3 +5,12 @@
 
 # Still nothing to see here
 
+X <- 28
+
+# Comment
+
+Y <- 8
+
+# Comment aso
+
+Z <- 100000
